@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5068'
     url: http://www.gutenberg.org/2009/agents/5068
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13477#Watts--1817-1904-
 gutenberg_bookshelf:
 - Masterpieces in Colour
 - Art
