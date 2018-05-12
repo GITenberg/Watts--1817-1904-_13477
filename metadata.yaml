@@ -1,0 +1,32 @@
+_repo: Watts--1817-1904-_13477
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hare, William Loftus
+    alias: Hare, W. Loftus (William Loftus)
+    birthdate: 1868
+    deathdate: 1943
+    gutenberg_agent_id: '5068'
+    url: http://www.gutenberg.org/2009/agents/5068
+description: ''
+gutenberg_bookshelf:
+- Masterpieces in Colour
+- Art
+gutenberg_issued: '2004-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13477'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Watts, George Frederick, 1817-1904'
+- !lcc 'ND'
+- !lcsh 'Painters -- England -- Biography'
+- !lcsh 'Painting, English -- 19th century'
+title: Watts (1817-1904)
+url: http://www.gutenberg.org/ebooks/13477
